@@ -1,3 +1,3 @@
-# -
-SQL
-gh repo clone Tollardeli/Bank
+# - SQL
+
+Основная программа - https://github.com/Tollardeli/Bank.git
